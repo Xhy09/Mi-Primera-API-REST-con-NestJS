@@ -10,17 +10,8 @@ Actualmente **no usa base de datos**, sino un array en memoria para almacenar lo
 
 - Node.js >= 18  
 - npm >= 9  
-- NestJS CLI (opcional para generar archivos): `npm i -g @nestjs/cli`
 
 ---
 
-## 🔹 Instalación
-
-1. Clonar el repositorio:
-
-```bash
-git clone <URL_DEL_REPOSITORIO>
-cd layered-api
-```
 ## 🎦 Video explicativo 
 https://youtu.be/7pgjRgWVWIE
